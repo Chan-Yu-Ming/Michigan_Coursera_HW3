@@ -142,7 +142,7 @@ footer{
 .multiple-of-3:hover,
 .multiple-of-5:hover,
 .special:hover {
-    background-color: rgb(86, 145, 156);
+    background-color: rgb(62 117 127);
 }
 
 /* CSS for Transformation Page */
@@ -216,6 +216,7 @@ footer{
     padding: 3px;
 
 }
+
 
 
 
