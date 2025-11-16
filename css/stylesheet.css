@@ -72,7 +72,7 @@ footer{
 }
 
 .intro-image img{
-    border: 1px solid black 10px;
+    border: 1px solid black;
     border-radius: 15px;
     width:270px;
     height:270px;
@@ -211,4 +211,5 @@ footer{
     padding: 3px;
 
 }
+
 
