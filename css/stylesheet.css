@@ -95,6 +95,10 @@ footer{
 
 /* CSS for Divisibility Pages */
 
+.properties div{
+    font:14.5px;
+}
+
 .container {
     display: grid;
     grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
@@ -211,5 +215,6 @@ footer{
     padding: 3px;
 
 }
+
 
 
