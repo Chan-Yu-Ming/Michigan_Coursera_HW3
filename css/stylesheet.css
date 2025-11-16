@@ -84,11 +84,13 @@ footer{
 
 .intro-image img:active{
     transform: translateY(2px);
+    background-color: rgb(243, 236, 236);
     box-shadow: none;
-
 }
 
-
+.intro-image img:hover{
+    background-color: rgb(243, 236, 236);
+}
 
 
 /* CSS for Divisibility Pages */
@@ -209,3 +211,4 @@ footer{
     padding: 3px;
 
 }
+
